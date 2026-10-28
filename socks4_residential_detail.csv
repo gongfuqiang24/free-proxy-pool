@@ -1,2 +1,3 @@
 proxy,country,region,city,isp,org,asn,mobile,hosting,known_proxy,exit_ip
 139.224.205.16:7890,China,Shanghai,Shanghai,Addresses CNNIC,"Aliyun Computing Co., LTD","AS37963 Hangzhou Alibaba Advertising Co.,Ltd.",False,True,False,183.179.167.237
+81.162.123.152:10808,Ukraine,Crimea,Yalta,Yalta-TV KOM Ltd,YaltaRoute1,AS57093 Yalta-TV KOM Ltd.,False,False,False,185.229.191.148
