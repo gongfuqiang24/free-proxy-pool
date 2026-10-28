@@ -13,7 +13,7 @@ import sys
 import time
 import urllib.request
 
-REPO = 'fmw86/free-proxy-pool'
+REPO = 'gongfuqiang24/free-proxy-pool'
 BRANCH = 'main'
 API = f'https://api.github.com/repos/{REPO}/contents'
 TOKEN = os.environ['GH_TOKEN']
