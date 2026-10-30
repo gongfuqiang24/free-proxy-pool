@@ -1,8 +1,8 @@
-http_alive=1188
-http_candidates=7815
-http_fast=339
-http_residential=1080
-http_updated_at=2026-10-30T18:13:36Z
+http_alive=1325
+http_candidates=8175
+http_fast=439
+http_residential=1182
+http_updated_at=2026-10-30T22:40:43Z
 nodes_alive=3186
 nodes_candidates=7391
 nodes_residential=0
