@@ -1,3 +1,2 @@
 proxy,country,region,city,isp,org,asn,mobile,hosting,known_proxy,exit_ip
-109.111.179.214:10808,Russia,Novosibirsk Oblast,Rechnik,Sibirskie Seti Ltd.,ISP Sibnet NSK,AS34757 Sibirskie Seti Ltd.,False,False,False,152.234.248.60
-104.252.175.210:1080,United States,California,Santa Clara,Digital LLC,Digital LLC,AS211273 Cloud Software - FZCO,False,True,True,104.252.175.210
+114.253.59.75:7890,China,Beijing,Beijing,China Unicom Beijing Province Network,,AS4808 China Unicom Beijing Province Network,False,False,False,47.242.110.176
