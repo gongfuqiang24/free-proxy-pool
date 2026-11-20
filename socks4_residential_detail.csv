@@ -1,3 +1,2 @@
 proxy,country,region,city,isp,org,asn,mobile,hosting,known_proxy,exit_ip
-123.117.77.195:9050,China,Beijing,Beijing,China Unicom Beijing Province Network,,AS4808 China Unicom Beijing Province Network,False,False,False,149.88.64.44
-195.170.193.170:10808,Russia,Moscow,Moscow,Lovitel LLC,Lovitel LLC,AS41275 Lovitel LLC,False,False,False,165.231.99.10
+178.253.38.101:10808,Poland,Mazovia,Warsaw,First Server Limited,,AS204997 FIRST SERVER LIMITED,False,True,False,82.22.40.133
