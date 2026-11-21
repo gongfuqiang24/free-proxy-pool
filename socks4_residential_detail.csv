@@ -1,2 +1,2 @@
 proxy,country,region,city,isp,org,asn,mobile,hosting,known_proxy,exit_ip
-85.143.71.188:10808,Russia,Tomsk Oblast,Tomsk,National Research Tomsk Polytechnic University,Tomsk Polytechnic University,AS5567 National Research Tomsk Polytechnic University,False,False,False,94.183.255.174
+103.178.235.176:9999,Vietnam,Ho Chi Minh City (HCMC),Ho Chi Minh City,VPSTTT,VPSTTT Technology Company Limited,AS140810 Megacore Technology Company Limited,False,True,True,103.178.235.176
