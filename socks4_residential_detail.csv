@@ -1,2 +1,2 @@
 proxy,country,region,city,isp,org,asn,mobile,hosting,known_proxy,exit_ip
-91.208.42.2:10808,Russia,Moscow,Moscow,Pravilnyy khosting Ltd,IXBT,AS47577 Pravilnyy khosting Ltd,False,True,False,185.145.245.179
+85.143.71.188:10808,Russia,Tomsk Oblast,Tomsk,National Research Tomsk Polytechnic University,Tomsk Polytechnic University,AS5567 National Research Tomsk Polytechnic University,False,False,False,31.76.119.181
