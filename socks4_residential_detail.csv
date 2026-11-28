@@ -1,2 +1,2 @@
 proxy,country,region,city,isp,org,asn,mobile,hosting,known_proxy,exit_ip
-216.236.6.203:7890,Hong Kong,Kwai Tsing District,Kwai Chung,Catixs Ltd,Eons Data Communications Limited,AS48266 Catixs Ltd,False,True,True,38.91.107.49
+144.168.59.44:1080,United States,California,Los Angeles,IT7 Networks Inc,IT7 Networks Inc,AS25820 IT7 Networks Inc,False,True,True,2.27.174.163
